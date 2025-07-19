@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>GraphView</class>
+ <widget class="QWidget" name="GraphView">
+  <property name="windowTitle">
+   <string>Graph View</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+      <widget class="QWidget" name="canvasWidget">
+        <property name="minimumSize">
+          <size>
+            <width>400</width>
+            <height>300</height>
+          </size>
+        </property>
+        <layout class="QVBoxLayout" name="canvasLayout"/>
+      </widget>
+    </item>
+    <item>
+      <widget class="QWidget" name="toolbarWidget">
+        <layout class="QVBoxLayout" name="toolbarLayout"/>
+      </widget>
+    </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

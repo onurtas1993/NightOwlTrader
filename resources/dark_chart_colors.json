@@ -1,0 +1,16 @@
+{
+    "axes.facecolor": "#2b2b2b",
+    "axes.edgecolor": "#555555",
+    "axes.labelcolor": "#ffffff",
+    "xtick.color": "#ffffff",
+    "ytick.color": "#ffffff",
+    "grid.color": "#666666",
+    "figure.facecolor": "#353535",
+    "figure.edgecolor": "#353535",
+    "legend.facecolor": "#2b2b2b",
+    "legend.edgecolor": "#555555",
+    "text.color": "#ffffff",
+    "bullish_candle_color": "#2EBD85",
+    "bearish_candle_color": "#F6465D",
+    "neutral_candle_color": "gray"
+}

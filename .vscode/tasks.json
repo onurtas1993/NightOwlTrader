@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile QRC w/ PySide6",
+            "type": "shell",
+            "command": "pyside6-rcc",
+            "args": [
+                "resources/resources.qrc",
+                "-o",
+                "rc_resources.py"
+            ],
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}
